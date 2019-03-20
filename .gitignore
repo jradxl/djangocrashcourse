@@ -106,5 +106,6 @@ venv.bak/
 .vscode
 
 djangoproject/settings_secret.py
+djangoproject/__pycache__/
 
 
